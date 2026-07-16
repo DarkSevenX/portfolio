@@ -75,7 +75,7 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/DarkSevenX",
         icon: Icons.github,
         navbar: true,
       },
@@ -184,21 +184,21 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
-      href: "https://chatcollect.com",
-      dates: "Jan 2024 - Feb 2024",
+      title: "Boo Money",
+      href: "https://boo-money.vercel.app/",
+      dates: "Abril 2025",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+        "Boo Money es una plataforma gratuita que permite a los usuarios gestionar sus finanzas personales.",
       technologies: [
         "Next.js",
         "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "Turso",
+        "LibSQL",
+        "DrizzleORM",
         "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "Radix UI",
+        'Shadcn UI'
       ],
       links: [
         {
@@ -212,12 +212,12 @@ export const DATA = {
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
     {
-      title: "Magic UI",
+      title: "CommitBrief",
       href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      dates: "Junio 2025",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "Convierte automáticamente los commits técnicos en actualizaciones de producto legibles para los usuarios.Deja de perder tiempo redactando manualmente las novedades.",
       technologies: [
         "Next.js",
         "Typescript",
