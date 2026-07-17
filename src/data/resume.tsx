@@ -14,11 +14,11 @@ import { Csharp } from "@/components/ui/svgs/csharp";
 import { de, en } from "zod/v4/locales";
 
 export const DATA = {
-  name: "Nelson",
-  initials: "DV",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  name: "Nelson Argumedo",
+  initials: "NA",
+  url: "https://nelsonargumedo.netlify.app/",
+  location: "Montería, Colombia",
+  locationLink: "https://www.google.com/maps/place/Monter%C3%ADa,+C%C3%B3rdoba,+Colombia",
   description:
     "Ingeniero de software convertido en emprendedor. Me encanta crear cosas y ayudar a la gente.",
   summary:

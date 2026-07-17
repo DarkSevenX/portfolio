@@ -27,6 +27,8 @@ export const metadata: Metadata = {
     template: `%s | ${DATA.name}`,
   },
   description: DATA.description,
+  keywords: ["Nelson Argumedo", "Desarrollador Web", "Frontend Developer", "React", "Angular", "Next.js", "Montería", "Colombia", "Ingeniero de Software"],
+  authors: [{ name: DATA.name, url: DATA.url }],
   openGraph: {
     title: `${DATA.name}`,
     description: DATA.description,
@@ -62,7 +64,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="es" suppressHydrationWarning>
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased relative",
