@@ -693,5 +693,5 @@ export const DATA = {
   //     ],
   //   },
   // ],
-  hackathons: [],
+  hackathons: [] as any[],
 } as const;
