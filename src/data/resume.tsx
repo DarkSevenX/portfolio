@@ -22,7 +22,7 @@ export const DATA = {
   description:
     "Ingeniero de software convertido en emprendedor. Me encanta crear cosas y ayudar a la gente.",
   summary:
-    "Tengo 22, soy un estudiante de Ingeniería de Software, apasionado por la programación y la tecnología. Me gusta aprender de forma autodidacta y pasar el tiempo haciendo proyectos interesantes y retadores.",
+    "Tengo 22, soy un estudiante de noveno semestre de Ingeniería de Software, apasionado por la programación y la tecnología. Me gusta aprender de forma autodidacta y pasar el tiempo haciendo proyectos interesantes y retadores.",
   avatarUrl: "https://github.com/DarkSevenX.png",
   skills: [
     // Languages
@@ -125,7 +125,7 @@ export const DATA = {
   work: [
     {
       company: "SISSGO",
-      href: "",
+      href: "https://sissgo.com.co/",
       badges: [],
       location: "Montería",
       title: "Frontend Angular Developer",
@@ -134,6 +134,17 @@ export const DATA = {
       end: "Julio 2026",
       description:
         "Participé en el desarrollo del producto principal de la empresa: un sistema de gestión hospitalario integral. Implementé formularios dinámicos y componentes reutilizables utilizando Angular. Desarrollé y mejoré funcionalidades específicas del sistema según los requerimientos asignados. Trabajé bajo lineamientos del equipo de desarrollo, siguiendo buenas prácticas de frontend y control de versiones.",
+    },
+    {
+      company: 'OkWork',
+      href: 'https://www.okworkcol.com/',
+      badges: [],
+      location: 'Bogotá',
+      title: 'FullStack Developer',
+      logoUrl: '/logo-okwork.png',
+      start: 'Sep 2025',
+      end: 'Actualidad',
+      description: 'Me desenvolví principalmente en el desarrollo de software de forma freelance para la empresa brindando acompañamiento a proyectos estancados o en abandono, así como la creación de proyectos desde 0. Así mismo, trabajé como tutor academico de programación para estudiantes en diversas areas de la programación.'
     },
     {
       company: "MaderexTK",
