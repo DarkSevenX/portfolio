@@ -208,7 +208,7 @@ export const DATA = {
   projects: [
     {
       title: "Boo Money",
-      href: "https://boo-money.vercel.app/",
+      href: "https://boomoney.co",
       dates: "Abril 2025",
       active: true,
       description:
