@@ -155,7 +155,7 @@ export const DATA = {
       start: "Sep 2025",
       end: "Actualidad",
       description:
-        "Me desenvolví principalmente en el desarrollo de software de forma freelance para la empresa, brindando acompañamiento a proyectos estancados o en abandono, así como en la creación de proyectos desde cero. Asimismo, trabajé como tutor académico de programación para estudiantes en diversas áreas de la programación.",
+        "Me desenvolví principalmente en el desarrollo de software de forma freelance para la empresa, brindando acompañamiento a proyectos estancados o en abandono, así como en la creación de proyectos desde cero. Así mismo, trabajé como tutor académico de programación para estudiantes en diversas áreas de la programación.",
     },
     {
       company: "MaderexTK",
