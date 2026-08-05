@@ -219,8 +219,8 @@ export const DATA = {
   projects: [
     {
       title: "Boo Money",
-      href: "https://boo-money.vercel.app/",
-      dates: "Abril 2026",
+      href: "https://boomoney.co",
+      dates: "Abril 2025",
       active: true,
       description:
         "Boo Money es una plataforma gratuita que permite a los usuarios gestionar sus finanzas personales.",
