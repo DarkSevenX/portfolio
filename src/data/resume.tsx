@@ -96,7 +96,6 @@ export const DATA = {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/nelson-argumedo-ramos-ba200a323/",
         icon: Icons.linkedin,
-
         navbar: true,
       },
       // X: {
@@ -116,13 +115,24 @@ export const DATA = {
         name: "Send Email",
         url: "nelsonargumedoramos182@gmail.com",
         icon: Icons.email,
-
         navbar: true,
       },
     },
   },
 
   work: [
+    {
+      company: "Dulces Sion",
+      href: "",
+      badges: [],
+      location: "Montería",
+      title: "FullStack Electron, Express Developer",
+      logoUrl: "/icono-sion.jpeg",
+      start: "Abr 2026",
+      end: "Jul 2026",
+      description:
+        "Diseñé desde cero un sistema integral que centraliza la administración de clientes, facturación electrónica, control de inventario, cotizaciones y roles de usuarios. Todo esto con respaldo en la nube. Actualmente es un sistema de uso diario y vital para las operaciones administrativas de la empresa.",
+    },
     {
       company: "SISSGO",
       href: "https://sissgo.com.co/",
@@ -131,27 +141,28 @@ export const DATA = {
       title: "Frontend Angular Developer",
       logoUrl: "/logo de sissgo.png",
       start: "Oct 2025",
-      end: "Julio 2026",
+      end: "Jul 2026",
       description:
         "Participé en el desarrollo del producto principal de la empresa: un sistema de gestión hospitalario integral. Implementé formularios dinámicos y componentes reutilizables utilizando Angular. Desarrollé y mejoré funcionalidades específicas del sistema según los requerimientos asignados. Trabajé bajo lineamientos del equipo de desarrollo, siguiendo buenas prácticas de frontend y control de versiones.",
     },
     {
-      company: 'OkWork',
-      href: 'https://www.okworkcol.com/',
+      company: "OkWork",
+      href: "https://www.okworkcol.com/",
       badges: [],
-      location: 'Bogotá',
-      title: 'FullStack Developer',
-      logoUrl: '/logo-okwork.png',
-      start: 'Sep 2025',
-      end: 'Actualidad',
-      description: 'Me desenvolví principalmente en el desarrollo de software de forma freelance para la empresa brindando acompañamiento a proyectos estancados o en abandono, así como la creación de proyectos desde 0. Así mismo, trabajé como tutor academico de programación para estudiantes en diversas areas de la programación.'
+      location: "Bogotá",
+      title: "FullStack Developer",
+      logoUrl: "/logo-okwork.png",
+      start: "Sep 2025",
+      end: "Actualidad",
+      description:
+        "Me desenvolví principalmente en el desarrollo de software de forma freelance para la empresa, brindando acompañamiento a proyectos estancados o en abandono, así como en la creación de proyectos desde cero. Asimismo, trabajé como tutor académico de programación para estudiantes en diversas áreas de la programación.",
     },
     {
       company: "MaderexTK",
       href: "",
       badges: [],
       location: "Montería",
-      title: "Fullstack web Junior developer",
+      title: "Fullstack Web Junior Developer",
       logoUrl: "/logo-maderex.png",
       start: "May 2025",
       end: "Jul 2025",
@@ -163,10 +174,10 @@ export const DATA = {
       href: "",
       badges: [],
       location: "Montería",
-      title: "Frontend React developer",
+      title: "Frontend React Developer",
       logoUrl: "/185019248.jpg",
       start: "Oct 2024",
-      end: "Abril 2025",
+      end: "Abr 2025",
       description:
         "Implementé soluciones frontend innovadoras, mejorando la experiencia del usuario en DevsCorp un 50%. Trabajé en estrecha colaboración con los equipos de diseño y backend para garantizar una integración fluida. Optimicé el rendimiento y la capacidad de respuesta de las aplicaciones mediante prácticas de codificación eficaces.",
     },
@@ -209,7 +220,7 @@ export const DATA = {
     {
       title: "Boo Money",
       href: "https://boo-money.vercel.app/",
-      dates: "Abril 2025",
+      dates: "Abril 2026",
       active: true,
       description:
         "Boo Money es una plataforma gratuita que permite a los usuarios gestionar sus finanzas personales.",
@@ -236,7 +247,7 @@ export const DATA = {
     {
       title: "CommitNotes",
       href: "https://commitnotes.netlify.app/",
-      dates: "Junio 2025",
+      dates: "Junio 2026",
       active: true,
       description:
         "Convierte automáticamente los commits técnicos en actualizaciones de producto legibles para los usuarios.Deja de perder tiempo redactando manualmente las novedades.",
